@@ -1,1 +1,1 @@
-[9, "apple", "hello\n\"world", {"name": {"name": "cloud"}}, {"name": {"name": "wildcat"}}, {"name": {"name": {"name": {"name": "cloud"}}}}, {"name": {"name": {"name": {"name": {"name": {"name": {"name": 2}}}}}}}, {"name": {"name": {"name": {"name": {"name": {"name": {"name": "cat"}}}}}}}, {"name": {"name": {"name": {"name": {"name": {"name": {"name": {"name": "apple"}}}}}}}}, {"name": {"name": {"name": {"name": {"name": {"name": {"name": {"name": "banana"}}}}}}}}]
+[2, 2, 123, 456, "4{}{56", "dog", {"name": 2}, {"name": 7}, {"name": "a1"}, {"name": {"name": "}}}{"}}]
